@@ -1,2 +1,37 @@
-# CTF-Template
-CTF Write-Up Template
+****
+
+# Template Capture the Flag
+
+
+
+**Source:** 
+
+***Description:***
+
+​	
+
+***Related Hosting Links***
+
+- 
+
+***Special Notes:***
+
+​	
+
+
+
+***Instructions:*** 
+
+- 
+
+
+
+
+
+
+
+
+
+***Flags:***
+
+​	
